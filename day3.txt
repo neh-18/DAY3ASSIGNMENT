@@ -1,0 +1,8 @@
+1. git is a popular vcs which is created by Linus Torvalds in 2005 and maintained by Junio Hamano. It is used for tracking code changes, tracking who made changes like history of files and coding collaborations.
+2. vcs is a system that records changes to a file or set of files that recall versions later i.e. for every source code changes in a file a new version is created.
+3. GitHub is a git server tool.It is a largest code hosting platform where all developers store or maintain source code or projects. It let's all developers work together on projects.
+4. Github, Gitlab, Bitbucket
+5.centralised vcs and distributed vcs
+6. Git offers the type of performance, functionality, security, and flexibility that most developers and teams need to develop their project.
+7. A git repository is a .git/folder inside a project.
+8. By using git init command: it's a 1 time command we use during initial setup of a new repo.
